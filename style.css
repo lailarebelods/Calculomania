@@ -121,6 +121,31 @@ h3 {
   transition: background-color 200ms ease-in-out;
 }
 
+.buttonAula {
+  font-family: 'Barclaycard Co Lt',Tahoma,sans-serif;
+  margin: 10px 20px 20px 20px;
+  float: right;
+  cursor: pointer;
+
+  font-size: 1em;
+  border: none;
+  padding: 10px 15px;
+  line-height: 18px;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+  -o-border-radius: 3px;
+  border-radius: 3px;
+  vertical-align: baseline;
+  background: #4CAF50;
+  color: white;
+  text-decoration: none !important;
+  -webkit-font-smoothing: subpixel-antialiased;
+  -webkit-transition: background-color 200ms ease-in-out;
+  -moz-transition: background-color 200ms ease-in-out;
+  -o-transition: background-color 200ms ease-in-out;
+  transition: background-color 200ms ease-in-out;
+}
+
 .buttonInst {
   font-family: 'Barclaycard Co Lt',Tahoma,sans-serif;
   margin: 10px 0 0 0;
