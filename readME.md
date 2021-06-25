@@ -1,5 +1,9 @@
 # Calculomania®
 ---
+>Percebendo o período pandêmico em que nos encontramos, resolvi desenvolver um jogo on-line, para que o parceiro possa aplicá-lo remotamente durante o isolamento social (e mesmo após).
+>
+>Desta forma, o jogo incentiva os alunos a praticarem exercícios em suas casas e se divertirem com as matérias apresentadas, permitindo ao professor analisar suas formas de resolução.
+---
 
 ##### Link do Jogo: https://github.com/lailarebelods/Calculomania
 
